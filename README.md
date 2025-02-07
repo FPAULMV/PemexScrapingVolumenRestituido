@@ -1,4 +1,4 @@
-# Script de Automatización de Volumen Restituido Pemex (Funciona pero aun en pruebas.)
+# Script de Automatización de Volumen Restituido Pemex <sub>*Funciona pero aun en pruebas.*</sub>
 
 Este proyecto automatiza la recopilación, procesamiento y almacenamiento de datos del portal web de Pemex sobre volumen restituido. El script utiliza **Selenium** para interactuar con el portal web, **Pandas** para procesar los datos, y **pyodbc** para conectarse a una base de datos SQL Server.
 
